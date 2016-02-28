@@ -1,6 +1,7 @@
 package main;
 
 import Levels.*;
+import Gameobjects.*;
 import java.awt.Canvas;
 import java.awt.Color;
 import java.awt.Graphics;
